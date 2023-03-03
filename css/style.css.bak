@@ -1,0 +1,18 @@
+
+body{
+		font-family:"Arial","Helvestica",sans-serif;
+		border-color:red; 
+		border-style:solid;
+		border-width:1px;
+}
+h1{
+		font-style:oblique;
+		background-image: url(../Images/sobre-background.jpg);
+}
+p{
+		text-align:justify;
+		line-height:20px;/*O melhor pra se usar eo 20px*/
+		letter-spacing:2px;/*2px e o melhor de espaço*/
+		word-spacing:3px;/*3px e a melhor distancia de cada palavra*/
+		text-indent:20px;/*20px a melhor distancia de paragrafo*/
+}
